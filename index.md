@@ -1,18 +1,27 @@
 # Robby Struthers Apps
 
-Practical apps built from real life, professional kitchens, recovery, history, and creative problem-solving.
+Technology built from real-world experience.
+
+I create practical apps inspired by professional kitchens, education, recovery, history, and storytelling. Each app is designed to solve a real problem while remaining simple, thoughtful, and useful.
 
 ## Apps
 
 ### Second Wind
-AI culinary assistant for professional chefs.
 
-### Voices in My Head
-A journaling and reflection app for recovery, emotional processing, and daily grounding.
+Second Wind is an AI-powered culinary assistant built for professional chefs.
 
-### Mythos
-A mythology learning app for ancient gods, stories, maps, and timelines.
+Enter available ingredients, select a category, and receive chef-quality menu concepts with Chef Notes, Server Notes, Upsell Suggestions, and Allergen Information.
 
-## Contact
+[Learn more about Second Wind](second-wind)
 
-Email: strutrr0@gmail.com
+## Support
+
+For support, contact:
+
+strutrr0@gmail.com
+
+[Support](support)
+
+## Privacy
+
+[Privacy Policy](privacy)
