@@ -1,11 +1,18 @@
-Support
+# Support
 
-For help with Second Wind or other apps by Robby Struthers, contact:
+For help with Robby Struthers Apps, please contact:
 
 strutrr0@gmail.com
 
 Please include:
+
 - App name
 - Device type
 - Description of the issue
 - Screenshot if available
+
+## Current Apps
+
+- Second Wind
+- Voices in My Head
+- Mythos
